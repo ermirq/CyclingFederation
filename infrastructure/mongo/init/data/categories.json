@@ -1,0 +1,30 @@
+[
+    {
+        "categoryName": "Elite",
+        "description": "Ages 23 and older",
+        "color": "Red",
+        "minAge": 23,
+        "maxAge": null
+    },
+    {
+        "categoryName": "Under 23 (U23)",
+        "description": "Ages 19 - 22",
+        "color": "Blue",
+        "minAge": 19,
+        "maxAge": 22
+    },
+    {
+        "categoryName": "Junior",
+        "description": "Ages 17 - 18",
+        "color": "Green",
+        "minAge": 17,
+        "maxAge": 18
+    },
+    {
+        "categoryName": "Youth",
+        "description": "Ages 15 - 16",
+        "color": "Yellow",
+        "minAge": 15,
+        "maxAge": 16
+    }
+]

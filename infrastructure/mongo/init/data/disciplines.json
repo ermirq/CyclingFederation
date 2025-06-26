@@ -1,0 +1,44 @@
+[
+  {
+    "code": "RR",
+    "title": "Road Race",
+    "description": "A mass-start race where all riders start together and race to the finish line.",
+    "validation": "Validate that competitors meet the required age and category. Ensure course safety regulations are acknowledged."
+  },
+  {
+    "code": "ITT",
+    "title": "Individual Time Trial (ITT)",
+    "description": "A race against the clock where riders start individually at set intervals.",
+    "validation": "Validate the starting intervals between competitors. Ensure competitors have ITT-specific equipment."
+  },
+  {
+    "code": "TTT",
+    "title": "Team Time Trial (TTT)",
+    "description": "A race against the clock where teams start at set intervals and the team's time is taken when a specific number of riders cross the finish line.",
+    "validation": "Validate team composition (e.g., minimum and maximum number of riders). Ensure teams have TTT-specific equipment."
+  },
+  {
+    "code": "CC",
+    "title": "Cyclo-cross",
+    "description": "A race held on a short course featuring various types of terrain, including grass, mud, and obstacles.",
+    "validation": "Validate course obstacles and terrain specifications. Ensure competitors have cyclo-cross-specific equipment."
+  },
+  { 
+    "code": "TC",
+    "title": "Track Cycling",
+    "description": "Racing on a velodrome track, including various events like sprints, pursuit, and points races.",
+    "validation": "Validate track regulations (e.g., bike specifications, rider positions). Ensure competitors comply with track-specific safety rules."
+  },
+  {
+    "code": "MB",
+    "title": "Mountain Bike",
+    "description": "Off-road racing on rough terrain, including cross-country and downhill events.",
+    "validation": "Validate the course difficulty and terrain type. Ensure competitors have mountain bike-specific equipment."
+  },
+  {
+    "code": "BMX",
+    "title": "BMX",
+    "description": "Short, intense races on dirt tracks with jumps and sharp turns.",
+    "validation": "Validate track and jump specifications. Ensure competitors have BMX-specific safety gear."
+  }
+]

@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Log files
+*.log
+spring.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Node.js
+node_modules/
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Avoid ignore Gradle wrappper properties
+!gradle-wrapper.properties
+
+# Environment variables
+.env
